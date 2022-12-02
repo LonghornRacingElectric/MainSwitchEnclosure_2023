@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Master Switch Enclosure Board.kicad_pro",
+    "filename": "Master Switch Enclosure Board B.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -414,10 +414,6 @@
     [
       "cf370d8d-a77c-400e-83d1-08ddc9dbb549",
       ""
-    ],
-    [
-      "6f1fcfde-f7f1-4881-ab00-4bd56759760a",
-      "SEPIC"
     ]
   ],
   "text_variables": {}
