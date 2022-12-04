@@ -1782,7 +1782,6 @@
     )
   )
 
-
   (junction (at 252.73 61.595) (diameter 0) (color 0 0 0 0)
     (uuid 039a2a98-2c15-4646-b0df-17aa2d8beeda)
   )
@@ -2438,7 +2437,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 04252b81-a47f-4e29-ad77-8804718df1f3)
   )
-  (text "HIGH = ???" (at 52.705 85.725 0)
+  (text "HIGH = 12V" (at 52.705 85.725 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 17733e8c-6d30-4168-8ae0-36c3478f7e78)
   )
@@ -2497,10 +2496,6 @@
   (text "LV" (at 234.315 29.845 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 9487d7b4-fd4a-40ab-9609-580e83459fe7)
-  )
-  (text "(talk to Pranit regarding pull-down)" (at 150.495 316.865 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 99c02702-3303-4f18-8276-8d5b74b34455)
   )
   (text "DB9 Connector (VCU CAN1)" (at 146.05 107.315 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
