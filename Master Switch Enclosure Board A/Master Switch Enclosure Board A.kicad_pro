@@ -119,7 +119,8 @@
         "use_height_for_length_calcs": true
       },
       "track_widths": [
-        0.0
+        0.0,
+        1.5
       ],
       "via_dimensions": [
         {
@@ -403,8 +404,12 @@
         "microvia_drill": 0.1,
         "name": "I=4",
         "nets": [
+          "HV+",
+          "HV-",
           "Net-(C11-Pad1)",
           "Net-(C11-Pad2)",
+          "Net-(J7-Pad3)",
+          "Net-(J7-Pad4)",
           "Net-(Q1-Pad1)",
           "Net-(R6-Pad2)",
           "SEPIC_out"
