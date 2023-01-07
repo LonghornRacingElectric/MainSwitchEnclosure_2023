@@ -1,0 +1,36 @@
+== internal connections ==
+B10	CHRG_in
+B20	SHDN2_out
+B19	SHDN2_in
+B9	VCU CAN1 H
+B8	VCU CAN1 L
+B18	EM CAN H
+B17	EM CAN L
+B7	BSPD test in
+B6	BSPD test out
+B16	VCU Wake out
+B15	RST out
+
+== other ==
+B1	GND
+A16 BYP out
+
+== harness out ==
+B5	VCU CAN3 H
+B4	VCU CAN3 L
+B14	VCU CAN4 H
+B13	VCU CAN4 L
+B3	VCU CAN2 ret H
+B2	VCU CAN2 ret L
+B12	VCU CAN3 ret H
+B11	VCU CAN3 ret L
+A20	TSAL Safe
+A19	TSAL Energized
+A18	Tel CAN H
+A17	Tel CAN L
+-	VCU CAN1 H
+-	VCU CAN1 L
+A15	Tel CAN ret H
+A14	Tel CAN ret L
+A13	VCU CAN2 H
+A12	VCU CAN2 L
