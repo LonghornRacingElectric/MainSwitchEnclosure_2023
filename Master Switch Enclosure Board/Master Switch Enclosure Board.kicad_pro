@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.5,
-          "width": 1.0
+          "height": 4.51,
+          "width": 4.32
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -414,13 +414,52 @@
           "Net-(J7-Pad4)",
           "Net-(Q1-Pad1)",
           "Net-(R6-Pad2)",
-          "SEPIC_out"
+          "SEPIC_out",
+          "SHDN2_in",
+          "SHDN2_out"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.5,
         "via_diameter": 3.0,
         "via_drill": 2.5,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Signal",
+        "nets": [
+          "CANH_EM",
+          "CANH_Tel",
+          "CANH_VCU1",
+          "CANH_VCU2",
+          "CANH_VCU3",
+          "CANH_VCU4",
+          "CANH_ret_Tel",
+          "CANH_ret_VCU2",
+          "CANH_ret_VCU3",
+          "CANL_EM",
+          "CANL_Tel",
+          "CANL_VCU1",
+          "CANL_VCU2",
+          "CANL_VCU3",
+          "CANL_VCU4",
+          "CANL_ret_Tel",
+          "CANL_ret_VCU2",
+          "CANL_ret_VCU3"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
         "wire_width": 6.0
       }
     ],
